@@ -140,3 +140,5 @@ plot(lambda, sapply(lambda, logL), type = 'l')
     - 二項分布(binomial distiribution): 離散, 0以上有限, 分散は平均の関数
     - 正規分布(normal distribution): 連続, 無限小から無限大, 分散は平均と無関係
     - ガンマ分布(gamma distribution): 連続, 0から無限大, 分散は平均の関数
+
+あ
